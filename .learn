@@ -1,4 +1,4 @@
-tags:
+irtags:
   - readme
   - methods
 languages:
@@ -12,4 +12,3 @@ unit:
   - methods and variables
 lesson: 
   - defining, calling, scope, arguments
-
